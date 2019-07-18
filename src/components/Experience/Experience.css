@@ -1,0 +1,20 @@
+.experienceContainer {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100; }
+  .experienceContainer .job {
+    width: 17rem;
+    border-radius: 3px;
+    box-shadow: 0.05rem 0.05rem 0.15rem #8c8c8c;
+    margin: 1.2rem;
+    min-height: 13rem; }
+    .experienceContainer .job .companyLogo {
+      width: 80%; }
+    .experienceContainer .job .dateRange {
+      position: relative;
+      top: -1rem;
+      right: -3.75rem;
+      color: #a2a2a2; }
+    .experienceContainer .job .role {
+      font-size: 1.15rem; }
+
+/*# sourceMappingURL=Experience.css.map */

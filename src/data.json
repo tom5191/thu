@@ -1,0 +1,123 @@
+{
+	"landing_atts": ["Writer", "Blogger", "World Traveler", "Event Coordinator", "Marketing Specialist"],
+	"experience": [
+		{
+			"role": "Account Support Specialist",
+			"company": "InComm",
+			"company_logo": "https://www.paymentsjournal.com/wp-content/uploads/2018/04/incomm-logo.jpg",
+			"location": "Hazelwood, Mo",
+			"start_date": "July 2019",
+			"end_date": "Present",
+			"responsibilities": []
+		},
+		{
+			"role": "Client Services Coordinator",
+			"company": "Meridian Loyalty",
+			"company_logo": "https://media.licdn.com/dms/image/C4E0BAQHDPmVreCPqUQ/company-logo_200_200/0?e=2159024400&v=beta&t=jO6WSh8FUaNEx8Ip5SqnYeCqdf8B2tiom7izFi7d_QU",
+			"location": "Hazelwood, Mo",
+			"start_date": "Octobter 2015",
+			"end_date": "July 2019",
+			"responsibilities": [
+				{
+					"responsibility": "Design websites and registration pages for travel programs",
+					"comments": ["Primarily Incentive Travel with 20% Corporate Business Conferences"]
+				},
+				{
+					"responsibility": "Power user for Cvent and Certain platforms",
+					"comments": [
+						"Cvent Celebrity Advocate",
+						"Cvent Platform Forum/Focus Group Participant",
+						"Cvent Connect Conference Social Media Ambassador"
+					]
+				},
+				{
+					"responsibility": "Implement HTML, CSS, Java to produce enticing websites for repeat clientele",
+					"comments": [""]
+				},
+				{
+					"responsibility": "Design mobile applications for groups of 500+attendees",
+					"comments": [""]
+				},
+				{
+					"responsibility": "Cvent Mobile App Certified",
+					"comments": [""]
+				},
+				{
+					"responsibility": "Work with Fortune 500 companies to address specific communication needs",
+					"comments": [""]
+				},
+				{
+					"responsibility": "Handle phone calls, registrations, and communication for all attendees",
+					"comments": [""]
+				},
+				{
+					"responsibility": "Sit in on meetings with hotel chains/vendors.",
+					"comments": [""]
+				},
+				{
+					"responsibility": "Travel on-site to manage mobile application and program",
+					"comments": [""]
+				},
+				{
+					"responsibility": " Create marketing and communication plans for incentive trips",
+					"comments": [""]
+				},
+				{
+					"responsibility": "Video editing and presentations for business development",
+					"comments": [""]
+				},
+				{
+					"responsibility": "Team Member Projects:",
+					"comments": [""]
+				},
+				{
+					"responsibility": "Core Values Team Member",
+					"comments": ["Assist in developing core values and re-branding of organization"]
+				},
+				{
+					"responsibility": "Activity Committee Member",
+					"comments": [
+						"Organize a large 40th anniversary week-long event.",
+						"Developed events for the kick-off of company re-branding.",
+						"Interview employees and produced a video to showcase Meridian's growth.",
+						"Set up monthly employee appreciation events to boost morale."
+					]
+				}
+			]
+		},
+		{
+			"role": "Marketing and Communications Intern",
+			"company": "PC Wellness Centers",
+			"company_logo": "",
+			"location": "Cape Girardeau, Mo",
+			"start_date": "August 2013",
+			"end_date": "December 2013",
+			"responsibilities": [
+				"Form and follow up with leads",
+				"Work informational booths at trade shows and community events",
+				"Design info-graphics to promote Health and Wellness",
+				"Set up lunch and learn programs with local companies",
+				"Analyze current promotional strategies",
+				"Produce new ways to promote business (print media, online marketing, etc.)",
+				"Recruit and train colleagues at trade show events"
+			]
+		}
+	],
+	"education": {
+		"college": "Southeast Missouri State University",
+		"degree": "Bachelor of Science in Business Administration, Marketing/Marketing Management",
+		"start_year": "2010",
+		"end_year": "2014",
+		"accomplishments": [
+			"Collegiate DECA President",
+			"Sigma Sigma Sigma Froundation Chair",
+			"International Business Club President",
+			"Hayden-Schuetts Marketing Scholarship Recipient (2012-2014",
+			"Marketing Student of the Year (May 2014)",
+			"Sigma Sigma Sigma Senior of the Year (May 2014)",
+			"Sigma Sigma Sigma Sister of the Year (May 2014)",
+			"Sigma Sigma Sigma Sophomore of the Year (May 2011)",
+			"Missouri State DECA Top Five Finalist"
+		]
+	}
+}

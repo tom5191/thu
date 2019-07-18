@@ -1,0 +1,35 @@
+.toolbar__mobileNav {
+	display: flex;
+	color: #fff;
+	height: 100%;
+	width: 70%;
+	button {
+		background: none;
+		border: none;
+		.menuIcon {
+			position: fixed;
+			fill: none;
+			stroke: #eee;
+			height: 1.75rem;
+			top: 0.75rem;
+			right: 0.75rem;
+		}
+		.closeIcon {
+			fill: #1a1a1a;
+			stroke: none;
+			height: 1.2rem;
+			right: 1rem;
+			top: 1rem;
+			position: fixed;
+		}
+	}
+	.menu {
+		width: 20.4rem;
+		background: rgba(255, 255, 255, 0.9);
+		box-shadow: -1px 1px 10px #5e5e5e;
+		button {
+			padding: 1.25rem;
+			margin: 0.25rem;
+		}
+	}
+}
