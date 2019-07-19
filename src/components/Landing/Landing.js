@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Landing.css';
+import './Landing.min.css';
 import Toolbar from '../Toolbar/Toolbar';
 import thuAvatar from '../../img/thu_avatar_300.jpg';
 

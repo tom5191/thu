@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Experience.css';
+import './Experience.min.css';
 import data from '../../data';
 import '../../theme/global.css';
 
