@@ -5,7 +5,7 @@ import DesktopNav from '../Nav/Desktop/DesktopNav';
 export class Toolbar extends Component {
 	render() {
 		return (
-			<header className="toolbar flex row h-right">
+			<header className="toolbar flex column h-right">
 				<DesktopNav />
 			</header>
 		);
