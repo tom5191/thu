@@ -29,10 +29,11 @@ export class Experience extends Component {
 							className="companyLogo"
 						/>
 					) : (
-						<h4>{data.experience[1].company}</h4>
+						<h6>No photo provided</h6>
 					)}
 
 					<h1 className="role">{data.experience[1].role}</h1>
+					<button>Accomplishments</button>
 				</div>
 			</div>
 		);

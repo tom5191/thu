@@ -1,5 +1,32 @@
 .about {
-	height: 400px;
 	width: 100%;
-	background: #fff;
+	padding-bottom: 1.5rem;
+	font-family: 'Asap', sans-serif;
+	color: #fff;
+	text-align: center;
+	background: #ddb5ff;
+	overflow: hidden;
+	background: #00c6ff; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #00c6ff, #0072ff); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		to right,
+		#00c6ff,
+		#0072ff
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	.aboutInfo {
+		width: 50%;
+		text-align: center;
+		font-family: 'Muli', sans-serif;
+		font-weight: 100;
+		margin: auto;
+	}
+}
+
+@media (max-width: 768px) {
+	.about {
+		.aboutInfo {
+			width: 90%;
+		}
+	}
 }

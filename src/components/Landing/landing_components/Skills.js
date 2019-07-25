@@ -1,9 +1,6 @@
-import React from 'react';
+import React, { Component } from 'react';
+import { landing_atts } from '../../../data.json';
 
 export default function Skills() {
-	return (
-		<div className="skillsContainer">
-			<h1>Marketing Specialist</h1>
-		</div>
-	);
+	return <div />;
 }

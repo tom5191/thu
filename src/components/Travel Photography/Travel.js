@@ -5,7 +5,7 @@ export class Travel extends Component {
 	render() {
 		return (
 			<div>
-				<h2>“Go, fly, roam, travel, voyage, explore, journey, discover, adventure.”</h2>
+				<h2>I haven't been everywhere, but it's on my list.</h2>
 				<ImgGallery />;
 			</div>
 		);
